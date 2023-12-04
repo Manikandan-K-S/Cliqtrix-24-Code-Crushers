@@ -52,7 +52,7 @@ Naming conventions for context variables played a crucial role in Bauble's effic
 
 Regrettably, due to unforeseen issues in hosting the backend for Bauble, we are unable to present a live demonstration this year. However, we have prepared a working demo uploaded on YouTube for you to explore. Feel free to check out the bot in action and witness the innovative features we've implemented.
 
-[![Bauble Demo]]([https://www.youtube.com/watch?v=your_video_id](https://www.youtube.com/watch?v=Cm6t4Hf6S0w))
+<a href='https://www.youtube.com/watch?v=Cm6t4Hf6S0w'>Bauble Demo</a>
 
 
 ## Contributors
