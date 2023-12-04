@@ -7,7 +7,7 @@ https://github.com/Manikandan-K-S/Cliqtrix-24-Code-Crushers/assets/98003320/87ac
 
 ## Overview
 
-Bauble is a cutting-edge chatbot designed to enhance user engagement on VirtuShop, your online shop. Created for Zoho Cliqtrix'24 hackathon, this chatbot seamlessly integrates with Zoho Sales IQ, offering users an intuitive interface to explore products, view deals, and perform various ecommerce actions. The solution is built using CodeIgniter for the backend and Zoho's Deluge scripting language for Bauble's business logic.
+Bauble is a chatbot designed to enhance user engagement on VirtuShop, your online shop. Created for Zoho Cliqtrix'24 hackathon, this chatbot seamlessly integrates with Zoho Sales IQ, offering users an intuitive interface to explore products, view deals, and perform various ecommerce actions. The solution is built using CodeIgniter for the backend and Zoho's Deluge scripting language for Bauble's business logic.
 
 
 ## Features
@@ -18,7 +18,7 @@ Bauble allows users to effortlessly browse products through an interactive card-
 
 ### 2. Secure User Authentication
 
-User authentication prioritizes security with an innovative approach – OTP authorization. Instead of traditional login credentials, Bauble uses one-time passwords, ensuring a secure and user-friendly login process.
+User authentication prioritizes security with OTP authorization. Instead of traditional login credentials, Bauble uses one-time passwords, ensuring a secure and user-friendly login process.
 
 ### 3. Cart Management and Checkout
 
@@ -37,7 +37,7 @@ Bauble empowers users to track their orders in real-time directly from the chatb
 
 ### 1. Handling Product Datatypes
 
-Managing the 'input carousel card' and handling output in product datatype presented challenges. Debugging Deluge scripts within the Codeless Bot Builder was intricate due to the unique structure of product datatypes. Solutions were devised by carefully studying the official documentation, providing clarity on working with these complex data structures.
+Managing the 'Input Carousel' card and handling output in product datatype presented challenges. Debugging Deluge scripts within the Codeless Bot Builder was intricate due to the unique structure of product datatype. Solutions were devised by carefully studying the official documentation, providing clarity on working with these complex data structures.
 
 ### 2. Dynamically Creating Carousels
 
